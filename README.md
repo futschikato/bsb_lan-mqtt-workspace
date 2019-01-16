@@ -25,7 +25,7 @@ Einstellungen:
 ![enter image description here](https://raw.githubusercontent.com/futschikato/mqtt-bsb_lan-workspcae/master/pic/grafana02.png)
 
 Um eventuell schnell zu Ergebnissen zu kommen wäre auch Node-Red eine Möglichkeit. Alledings sind die hier Dashboards nach einem Neustart weg.
-Unter [TheThingbox](http://thethingbox.io/) kann man sich eine fertiges Raspi-Image herunterladen und hat darauf bereits einen Mosquitto-Broker und Node-Red bereits installiert.
+Unter [TheThingbox](http://thethingbox.io/) kann man sich eine fertiges Raspi-Image herunterladen und hat darauf bereits einen  Mosquitto-Broker und Node-Red installiert.
 
 ![](https://raw.githubusercontent.com/futschikato/mqtt-bsb_lan-workspcae/master/pic/nodered01.png)
 
