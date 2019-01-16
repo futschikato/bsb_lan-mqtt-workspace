@@ -2,7 +2,7 @@
 **Der BSB lan mit mqtt**
 
 Um die vom BSB-lan gesendeten mqtt-Nachrichten zu nutzen benötigt es zunächst einen Broker wie z.B. [Mosquitto](https://mosquitto.org/).
-Damit wir die Daten mit [Grafana](https://grafana.com/) visualisieren können, benötigen wir ebenfalls eine Datenbank. Für so IOT-Sachen ist wohl InfluxDB am besten.
+Damit wir die Daten mit [Grafana](https://grafana.com/) visualisieren können, benötigen wir ebenfalls eine Datenbank. Für so IOT-Sachen ist wohl [InfluxDB](https://www.influxdata.com/time-series-platform/influxdb/) am besten.
 Schema sieht nun so aus :
 
 ![enter image description here](https://raw.githubusercontent.com/futschikato/mqtt-bsb_lan-workspcae/master/pic/mqtt_main.png)
