@@ -4,6 +4,7 @@
 Um die vom BSB-lan gesendeten mqtt-Nachrichten zu nutzen benötigt es zunächst einen einen Broker wie z.B. Mosquitto.
 Um weiter die Daten mit Grafana visualisieren zu können, benötigen wir noch eine Datenbank. Für so IOT-Sachen ist wohl InfluxDB am besten.
 Schema sieht nun so aus :
+
 ![enter image description here](https://raw.githubusercontent.com/futschikato/mqtt-bsb_lan-workspcae/master/pic/mqtt_main.png)
 
 Um die Daten vom Broker einzusammeln und in die DB zu schreiben nutzen wir Telegraf .
