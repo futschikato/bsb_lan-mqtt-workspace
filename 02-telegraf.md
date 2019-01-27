@@ -3,7 +3,7 @@
 3.  Grafana als Visualisierung
 
 
-[Installation Grafana](https://docs.influxdata.com/telegraf/v1.9/introduction/installation/)
+[Installation Telegraf](https://docs.influxdata.com/telegraf/v1.9/introduction/installation/)
 
 
 
