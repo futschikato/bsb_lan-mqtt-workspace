@@ -5,7 +5,7 @@ Installationen Zusammenfassung:
 
  - Mosquitto
  - InfluxDB
- - Telegram für InfuxDB
+ - Telegraf für InfuxDB
  - Grafana
 
 
