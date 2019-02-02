@@ -12,7 +12,7 @@ Um die Daten vom Broker einzusammeln und in die DB zu schreiben nutzen wir Teleg
 Installationen Zusammenfassung:
 
  - Mosquitto
- - ![InfluxDB](https://github.com/futschikato/bsb_lan-mqtt-workspace/blob/master/01-influxdb.md)
+ - [InfluxDB](https://github.com/futschikato/bsb_lan-mqtt-workspace/blob/master/01-influxdb.md)
  - ![Telegraf für InfluxDB](https://github.com/futschikato/bsb_lan-mqtt-workspace/blob/master/02-telegraf.md)
  - ![Grafana](https://github.com/futschikato/bsb_lan-mqtt-workspace/blob/master/03-grafana.md)
 
