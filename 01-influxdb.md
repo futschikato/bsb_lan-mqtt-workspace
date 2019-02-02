@@ -1,10 +1,9 @@
 
-
-.1.  InfluxDB, als Datenbank
+1.  InfluxDB, als Datenbank
 2.  Telegraf als Collector (inkl. mqtt_input-Plugin)
 3.  Grafana als Visualisierung
 
-
+*1. InfluxDB, als Datenbank*
 
  [Installation Influx](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)
  
