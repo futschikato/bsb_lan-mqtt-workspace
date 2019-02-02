@@ -2,6 +2,7 @@
 2.  Telegraf als Collector (inkl. mqtt_input-Plugin)
 3.  Grafana als Visualisierung
 
+**2. Telegraf mit mqtt_input Plugin**
 
 [Installation Telegraf](https://docs.influxdata.com/telegraf/v1.9/introduction/installation/)
 
