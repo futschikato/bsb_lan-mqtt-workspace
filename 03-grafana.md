@@ -2,6 +2,7 @@
 2.  Telegraf als Collector (inkl. mqtt_input-Plugin)
 3.  Grafana als Visualisierung 
 
+**3. Grafana**
 
 Installation siehe : [Installation Grafana](https://grafana.com/grafana/download?platform=linux)
 
