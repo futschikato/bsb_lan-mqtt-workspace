@@ -60,5 +60,5 @@ Test ob Daten in InfluxDB geschrieben werden:
 ```
 
 
+https://github.com/influxdata/telegraf/tree/master/plugins/inputs/mqtt_consumer
 
-https://github.com/influxdata/telegraf/tree/master/plugins/inputs/mqtt_consumer[Link](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/mqtt_consumer)
