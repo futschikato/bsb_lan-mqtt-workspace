@@ -47,7 +47,7 @@ liest zB. alle topics des Brokers
     "/raspi/#",
     "/esp/#",
     "uvr1611/#",
-  ]```
+  ]   ```
   
   auch Auflistung mehrerer topics möglich.
   Aber keine Mischung der data_type, also entweder alles float oder ...
