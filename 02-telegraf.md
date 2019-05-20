@@ -47,7 +47,8 @@ liest zB. alle topics des Brokers
     "/raspi/#",
     "/esp/#",
     "uvr1611/#",
-  ]   ```
+  ] 
+ ```
   
   auch Auflistung mehrerer topics möglich.
   Aber keine Mischung der data_type, also entweder alles float oder
@@ -55,7 +56,7 @@ liest zB. alle topics des Brokers
 
 Telegraf nach influx starten:
 
-[cubase:~#] vi /lib/systemd/system/telegraf.service
+ ```[cubase:~#] vi /lib/systemd/system/telegraf.service ```
 
 
 
