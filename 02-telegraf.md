@@ -29,12 +29,26 @@ database = "telegraf" # required
 [[inputs.mqtt_consumer]]
   servers = ["mosquitto:1883"]
   qos = 0
-  topics = [ "mydevice/#" ]
+  topics = [ "#" ]
   data_format = "value"
   data_type = "float"
 ```
 
 
+topics = [ "#" ]  
+
+liest zB. alle topics des Brokers
+
+topics = [
+    "UVR2MQTT/#",
+    "BSB-LAN/#",
+    "/raspi/#",
+    "/esp/#",
+    "uvr1611/#",
+  ]
+  
+  auch Auflistung mehrerer topics möglich.
+  Aber keine Mischung der data_type, also entweder alles float oder ...
 
 
 Telegraf nach influx starten:
