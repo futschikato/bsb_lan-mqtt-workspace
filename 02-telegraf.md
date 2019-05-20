@@ -35,6 +35,8 @@ database = "telegraf" # required
 ```
 
 
+Erklärung:
+
 ``` topics = [ "#" ]  ```
 
 liest zB. alle topics des Brokers
