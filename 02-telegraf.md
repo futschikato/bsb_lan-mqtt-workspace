@@ -52,10 +52,10 @@ topics = [
   ```
   
   auch Auflistung mehrerer topics möglich.
-  Aber keine Mischung der data_type, also entweder alles float oder
+  Aber keine Mischung der data_type, also entweder alles float oder influx
 
 
-Telegraf nach influx starten:
+Telegraf nach influx starten:(war bei mit nötig, da immer Fehler nach Boot)
 
 [cubase:~#] vi /lib/systemd/system/telegraf.service 
 
@@ -78,6 +78,7 @@ Test ob Daten in InfluxDB geschrieben werden:
 >exit
 ```
 
+weitere Infos:
 
 https://github.com/influxdata/telegraf/tree/master/plugins/inputs/mqtt_consumer
 
