@@ -56,11 +56,11 @@ liest zB. alle topics des Brokers
 
 Telegraf nach influx starten:
 
- ```[cubase:~#] vi /lib/systemd/system/telegraf.service ```
+[cubase:~#] vi /lib/systemd/system/telegraf.service 
 
 
 
-After=network.target influxdb.service
+ ```After=network.target influxdb.service ```
 
 
 
@@ -69,6 +69,7 @@ Test ob Daten in InfluxDB geschrieben werden:
 
 
 [cubase:~$] influx
+
 ```
 >use telegraf
 >show measurements
