@@ -41,14 +41,15 @@ Erklärung:
 
 liest zB. alle topics des Brokers
 
-```  topics = [
+```  
+topics = [
     "UVR2MQTT/#",
     "BSB-LAN/#",
     "/raspi/#",
     "/esp/#",
     "uvr1611/#",
-  ] 
- ```
+  ]  
+  ```
   
   auch Auflistung mehrerer topics möglich.
   Aber keine Mischung der data_type, also entweder alles float oder
