@@ -41,7 +41,7 @@ Erklärung:
 
 liest zB. alle topics des Brokers
 
-```topics = [
+``` topics = [
     "UVR2MQTT/#",
     "BSB-LAN/#",
     "/raspi/#",
@@ -50,7 +50,7 @@ liest zB. alle topics des Brokers
   ]   ```
   
   auch Auflistung mehrerer topics möglich.
-  Aber keine Mischung der data_type, also entweder alles float oder ...
+  Aber keine Mischung der data_type, also entweder alles float oder
 
 
 Telegraf nach influx starten:
@@ -58,9 +58,9 @@ Telegraf nach influx starten:
 [cubase:~#] vi /lib/systemd/system/telegraf.service
 
 
-```
+
 After=network.target influxdb.service
-```
+
 
 
 
