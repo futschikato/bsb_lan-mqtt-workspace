@@ -41,7 +41,8 @@ Erklärung:
 
 liest zB. alle topics des Brokers
 
-``` topics = [
+```topics = [
+
     "UVR2MQTT/#",
     "BSB-LAN/#",
     "/raspi/#",
