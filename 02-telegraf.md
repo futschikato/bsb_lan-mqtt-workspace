@@ -52,7 +52,7 @@ topics = [
   ```
   
   auch Auflistung mehrerer topics möglich.
-  Aber keine Mischung der data_type, also entweder alles float oder influx
+  Aber keine Mischung der data_type, also entweder alles _float_ oder _influx_
 
 
 Telegraf nach influx starten:(war bei mit nötig, da immer Fehler nach Boot)
@@ -81,4 +81,3 @@ Test ob Daten in InfluxDB geschrieben werden:
 weitere Infos:
 
 https://github.com/influxdata/telegraf/tree/master/plugins/inputs/mqtt_consumer
-
